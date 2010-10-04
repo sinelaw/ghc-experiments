@@ -1,3 +1,3 @@
-echo $@
+#;echo $@
 llvm-link -S $@
 

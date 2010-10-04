@@ -1,0 +1,3 @@
+echo $@
+llvm-link -S $@
+
